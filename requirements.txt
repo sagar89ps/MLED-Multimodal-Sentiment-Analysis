@@ -1,0 +1,34 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Transformers and NLP
+transformers>=4.30.0
+sentencepiece>=0.1.99
+tokenizers>=0.13.3
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.1
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Video Processing
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Progress Bars and Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# File Management and Data Formats
+h5py>=3.8.0
+PyYAML>=6.0
+
+# Optional: for CUDA support
+# cuda-python>=12.0  # if using NVIDIA GPU
